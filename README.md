@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Financial Algorithm Development
 - 📫 How to reach me @radhey__thakur (Instagram)
-- ⚡ Fun fact: A person never learn whole.
+- ⚡ Fun fact: Wants to learn Everything.
 
 <!---
 radheyThakur02/radheyThakur02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
